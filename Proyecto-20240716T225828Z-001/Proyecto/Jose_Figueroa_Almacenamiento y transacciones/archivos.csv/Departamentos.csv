@@ -1,0 +1,60 @@
+1;Buenos Aires;BA;1
+2;Córdoba;CBA;1
+3;Santa Cruz;SC;2
+4;La Paz;LP;2
+5;Sao Paulo;SP;3
+6;Rio de Janeiro;RJ;3
+7;Santiago;STG;4
+8;Valparaíso;VAL;4
+9;Bogotá;BOG;5
+10;Medellín;MED;5
+11;Guayaquil;GYE;6
+12;Quito;UIO;6
+13;Asunción;ASU;7
+14;Ciudad del Este;CDE;7
+15;Lima;LIM;8
+16;Arequipa;ARE;8
+17;Montevideo;MTV;9
+18;Punta del Este;PDE;9
+19;Caracas;CCS;10
+20;Maracaibo;MAR;10
+21;New York;NY;11
+22;Los Angeles;LA;11
+23;Toronto;TO;12
+24;Vancouver;VAN;12
+25;Ciudad de México;CDMX;13
+26;Guadalajara;GDL;13
+27;Madrid;MAD;14
+28;Barcelona;BCN;14
+29;París;PAR;15
+30;Lyon;LYO;15
+31;Roma;ROM;16
+32;Milán;MIL;16
+33;Berlín;BER;17
+34;Múnich;MUC;17
+35;Londres;LON;18
+36;Manchester;MCR;18
+37;Beijing;BJ;19
+38;Shanghai;SH;19
+39;Tokio;TOK;20
+40;Osaka;OSA;20
+41;Nueva Delhi;ND;21
+42;Mumbai;MUM;21
+43;Jakarta;JAK;22
+44;Bali;BAL;22
+45;Sídney;SDY;23
+46;Melbourne;MEL;23
+47;Moscú;MOS;24
+48;San Petersburgo;SPB;24
+49;Seúl;SEL;25
+50;Busan;BUS;25
+51;Teherán;TEH;26
+52;Isfahán;ISF;26
+53;El Cairo;CAI;27
+54;Alejandría;ALX;27
+55;Estambul;IST;28
+56;Ankara;ANK;28
+57;Johannesburgo;JNB;29
+58;Ciudad del Cabo;CPT;29
+59;Argel;ALG;30
+60;Orán;ORN;30

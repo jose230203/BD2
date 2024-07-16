@@ -1,0 +1,31 @@
+1;Caja;CAJ;1
+2;Empaque;EMP;1
+3;Bolsa;BOL;2
+4;Tarro;TAR;3
+5;Botella;BOT;4
+6;Lata;LAT;5
+7;Sobre;SOB;6
+8;Paquete;PAQ;7
+9;Envase;ENV;8
+10;Tubo;TUB;9
+11;Frasco;FRA;10
+12;Cubo;CUB;11
+13;Saco;SAC;12
+14;Barril;BAR;13
+15;Tanque;TAN;14
+16;Bolsa de papel;BPP;2
+17;Caja de cartón;CCC;1
+18;Envase de plástico;EPP;8
+19;Tarro de vidrio;TDV;3
+20;Botella de plástico;BDP;4
+21;Lata de aluminio;LTA;5
+22;Sobre de papel;SPP;6
+23;Paquete de madera;PDM;7
+24;Cilindro;CIL;9
+25;Bolsa de tela;BTE;2
+26;Caja de madera;CDM;1
+27;Envase de cartón;ECC;8
+28;Tarro de plástico;TDP;3
+29;Botella de vidrio;BDV;4
+30;Lata de acero;LTA;5
+

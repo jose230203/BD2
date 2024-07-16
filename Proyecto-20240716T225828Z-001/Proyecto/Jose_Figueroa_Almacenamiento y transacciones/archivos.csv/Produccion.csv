@@ -1,0 +1,30 @@
+1;Clásico;1;100;1;2022-01-01 08:00:00;Producción de camisas;02:00:00;1
+2;Modern;2;200;2;2022-01-03 09:00:00;Producción de pantalones;03:00:00;1
+3;Vintage;3;150;3;2022-01-05 10:00:00;Producción de blusas;02:30:00;1
+4;Deportivo;4;250;4;2022-01-08 11:00:00;Producción de zapatos;04:00:00;1
+5;Elegante;5;300;5;2022-01-10 12:00:00;Producción de trajes;05:00:00;1
+6;Clásico;6;120;6;2022-01-12 13:00:00;Producción de camisetas;02:15:00;1
+7;Modern;7;220;7;2022-01-15 14:00:00;Producción de faldas;03:15:00;1
+8;Vintage;8;180;8;2022-01-17 15:00:00;Producción de chaquetas;02:45:00;1
+9;Deportivo;9;280;9;2022-01-19 16:00:00;Producción de gorras;04:15:00;1
+10;Elegante;10;320;10;2022-01-22 17:00:00;Producción de vestidos;05:15:00;1
+11;Clásico;11;140;11;2022-01-24 18:00:00;Producción de pantalones cortos;02:30:00;1
+12;Modern;12;240;12;2022-01-26 19:00:00;Producción de blazers;03:30:00;1
+13;Vintage;13;200;13;2022-01-29 20:00:00;Producción de bufandas;02:45:00;1
+14;Deportivo;14;300;14;2022-01-31 21:00:00;Producción de zapatillas;04:30:00;1
+15;Elegante;15;350;15;2022-02-02 22:00:00;Producción de trajes de novia;05:30:00;1
+16;Clásico;16;160;16;2022-02-05 23:00:00;Producción de camisas de manga larga;02:45:00;1
+17;Modern;17;260;17;2022-02-07 00:00:00;Producción de pantalones de vestir;03:45:00;1
+18;Vintage;18;220;18;2022-02-09 01:00:00;Producción de blusas de seda;03:00:00;1
+19;Deportivo;19;320;19;2022-02-11 02:00:00;Producción de zapatos de running;04:45:00;1
+20;Elegante;20;370;20;2022-02-14 03:00:00;Producción de trajes de gala;05:45:00;1
+21;Clásico;21;180;21;2022-02-16 04:00:00;Producción de camisetas de manga corta;02:30:00;1
+22;Modern;22;280;22;2022-02-18 05:00:00;Producción de faldas de tul;03:30:00;1
+23;Vintage;23;240;23;2022-02-20 06:00:00;Producción de chaquetas de cuero;03:00:00;1
+24;Deportivo;24;340;24;2022-02-22 07:00:00;Producción de gorras de béisbol;04:45:00;1
+25;Elegante;25;390;25;2022-02-25 08:00:00;Producción de trajes de chaqueta;05:45:00;1
+26;Clásico;26;200;26;2022-02-27 09:00:00;Producción de camisas de vestir;02:15:00;1
+27;Modern;27;300;27;2022-03-01 10:00:00;Producción de pantalones cargo;03:15:00;1
+28;Vintage;28;250;28;2022-03-03 11:00:00;Producción de blusas de encaje;02:45:00;1
+29;Deportivo;29;360;29;2022-03-05 12:00:00;Producción de zapatos de vestir;04:30:00;1
+30;Elegante;30;410;30;2022-03-07 13:00:00;Producción de vestidos de noche;05:30:00;1

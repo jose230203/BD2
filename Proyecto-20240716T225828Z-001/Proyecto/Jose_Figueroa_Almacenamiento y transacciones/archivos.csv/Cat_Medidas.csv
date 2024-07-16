@@ -1,0 +1,10 @@
+1;Metro;m;1.0
+2;Centímetro;cm;0,01
+3;Milímetro;mm;0,001
+4;Kilómetro;km;1000.0
+5;Pulgada;in;0.0254
+6;Pie;ft;0.3048
+7;Yarda;yd;0.9144
+8;Litro;l;1.0
+9;Mililitro;ml;0.001
+10;Kilolitro;kl;1000.0

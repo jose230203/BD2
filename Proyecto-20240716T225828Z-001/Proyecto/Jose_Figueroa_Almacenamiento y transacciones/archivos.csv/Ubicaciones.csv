@@ -1,0 +1,100 @@
+1;Avenida Siempre Viva 742;1;1001;Falsa
+2;Calle Falsa 123;1;1002;Springfield
+3;Avenida del Libertador 1234;2;1003;Libertador
+4;Calle Mayor 456;2;1004;Mayor
+5;Avenida Ballivián 789;3;2001;Ballivián
+6;Calle Junín 987;3;2002;Junín
+7;Avenida 6 de Marzo 123;4;2003;Marzo
+8;Calle Comercio 456;4;2004;Comercio
+9;Avenida Paulista 789;5;3001;Paulista
+10;Calle Oscar Freire 987;5;3002;Freire
+11;Avenida Atlántica 123;6;3003;Atlántica
+12;Calle das Laranjeiras 456;6;3004;Laranjeiras
+13;Avenida Providencia 789;7;4001;Providencia
+14;Calle Vicuña Mackenna 987;7;4002;Mackenna
+15;Avenida Libertad 123;8;4003;Libertad
+16;Calle Pedro de Valdivia 456;8;4004;Valdivia
+17;Avenida El Dorado 789;9;5001;Dorado
+18;Calle 26 987;9;5002;26
+19;Avenida Oriental 123;10;5003;Oriental
+20;Calle 30 456;10;5004;30
+21;Avenida 9 de Octubre 789;11;6001;Octubre
+22;Calle Malecón 987;11;6002;Malecón
+23;Avenida Amazonas 123;12;6003;Amazonas
+24;Calle Colón 456;12;6004;Colón
+25;Avenida Mcal. López 789;13;7001;López
+26;Calle Palma 987;13;7002;Palma
+27;Avenida Mcal. Estigarribia 123;14;7003;Estigarribia
+28;Calle España 456;14;7004;España
+29;Avenida La Marina 789;15;8001;Marina
+30;Calle Pizarro 987;15;8002;Pizarro
+31;Avenida Ejército 123;16;8003;Ejército
+32;Calle San Martín 456;16;8004;San Martín
+33;Avenida 18 de Julio 789;17;9001;Julio
+34;Calle Sarandí 987;17;9002;Sarandí
+35;Avenida Gorlero 123;18;9003;Gorlero
+36;Calle 20 456;18;9004;20
+37;Avenida Urdaneta 789;19;10001;Urdaneta
+38;Calle Miranda 987;19;10002;Miranda
+39;Avenida Libertador 123;20;10003;Libertador
+40;Calle Carabobo 456;20;10004;Carabobo
+41;5th Avenue 789;21;11001;Fifth
+42;Broadway 987;21;11002;Broadway
+43;Hollywood Blvd 123;22;11003;Hollywood
+44;Santa Monica Blvd 456;22;11004;Monica
+45;Queen Street 789;23;12001;Queen
+46;King Street 987;23;12002;King
+47;Granville Street 123;24;12003;Granville
+48;Robson Street 456;24;12004;Robson
+49;Avenida Insurgentes 789;25;13001;Insurgentes
+50;Calle Reforma 987;25;13002;Reforma
+51;Avenida Vallarta 123;26;13003;Vallarta
+52;Calle Chapultepec 456;26;13004;Chapultepec
+53;Gran Vía 789;27;14001;Gran
+54;Calle Mayor 987;27;14002;Mayor
+55;Avenida Diagonal 123;28;14003;Diagonal
+56;Calle Aribau 456;28;14004;Aribau
+57;Champs-Élysées 789;29;15001;Champs
+58;Rue de Rivoli 987;29;15002;Rivoli
+59;Avenue Montaigne 123;30;15003;Montaigne
+60;Rue Saint-Honoré 456;30;15004;Honoré
+61;Avenida del Corso 789;31;16001;Corso
+62;Vía Condotti 987;31;16002;Condotti
+63;Avenida Santa Fe 123;32;16003;Santa
+64;Vía Veneto 456;32;16004;Veneto
+65;Unter den Linden 789;33;17001;Linden
+66;Kurfürstendamm 987;33;17002;Kurfürstendamm
+67;Zeil 123;34;17003;Zeil
+68;Goethestraße 456;34;17004;Goethe
+69;Oxford Street 789;35;18001;Oxford
+70;Regent Street 987;35;18002;Regent
+71;Deansgate 123;36;18003;Deansgate
+72;Market Street 456;36;18004;Market
+73;Wangfujing 789;37;19001;Wangfujing
+74;Nanjing Road 987;37;19002;Nanjing
+75;Bund 123;38;19003;Bund
+76;Huaihai Road 456;38;19004;Huaihai
+77;Ginza 789;39;20001;Ginza
+78;Shibuya 987;39;20002;Shibuya
+79;Akihabara 123;40;20003;Akihabara
+80;Roppongi 456;40;20004;Roppongi
+81;Connaught Place 789;41;21001;Connaught
+82;MG Road 987;41;21002;MG
+83;Brigade Road 123;42;21003;Brigade
+84;Anna Salai 456;42;21004;Anna
+85;Thamrin 789;43;22001;Thamrin
+86;Setiabudi 987;43;22002;Setiabudi
+87;Ubud 123;44;22003;Ubud
+88;Seminyak 456;44;22004;Seminyak
+89;George Street 789;45;23001;George
+90;Elizabeth Street 987;45;23002;Elizabeth
+91;Hay Street 123;46;23003;Hay
+92;Murray Street 456;46;23004;Murray
+93;Arbat Street 789;47;24001;Arbat
+94;Tverskaya Street 987;47;24002;Tverskaya
+95;Nevsky Prospekt 123;48;24003;Nevsky
+96;Rubinstein Street 456;48;24004;Rubinstein
+97;Myeongdong 789;49;25001;Myeongdong
+98;Apgujeong 987;49;25002;Apgujeong
+99;Hongdae 123;50;25003;Hongdae
+100;Gangnam 456;50;25004;Gangnam

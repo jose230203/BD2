@@ -1,0 +1,30 @@
+1;Caja Principal;1;1;Caja de Zapatos;Activa
+2;Caja de Accesorios;2;1;Caja de Accesorios;Inactiva
+3;Caja de Bolsos;3;2;Caja de Bolsos;Activa
+4;Caja de Carteras;4;3;Caja de Carteras;Inactiva
+5;Caja de Calzado;5;1;Caja de Calzado;Activa
+6;Caja de Marroquinería;6;2;Caja de Marroquinería;Inactiva
+7;Caja de Cuero;7;3;Caja de Cuero;Activa
+8;Caja de Zapatos;8;1;Caja de Zapatos;Inactiva
+9;Caja de Billeteras;9;2;Caja de Billeteras;Activa
+10;Caja de Pulseras;10;3;Caja de Pulseras;Inactiva
+11;Caja de Fajas;11;1;Caja de Fajas;Activa
+12;Caja de Cinturones;12;2;Caja de Cinturones;Inactiva
+13;Caja de Bolsos de Cuero;13;3;Caja de Bolsos de Cuero;Activa
+14;Caja de Carteras de Cuero;14;1;Caja de Carteras de Cuero;Inactiva
+15;Caja de Calzado de Cuero;15;2;Caja de Calzado de Cuero;Activa
+16;Caja de Marroquinería Fina;16;3;Caja de Marroquinería Fina;Inactiva
+17;Caja de Cuero Vacuno;17;1;Caja de Cuero Vacuno;Activa
+18;Caja de Cuero de Piel;18;2;Caja de Cuero de Piel;Inactiva
+19;Caja de Cuero de Cerdo;19;3;Caja de Cuero de Cerdo;Activa
+20;Caja de Cuero de Cabra;20;1;Caja de Cuero de Cabra;Inactiva
+21;Caja de Cuero de Oveja;21;2;Caja de Cuero de Oveja;Activa
+22;Caja de Cuero de Búfalo;22;3;Caja de Cuero de Búfalo;Inactiva
+23;Caja de Marroquinería Rustica;23;1;Caja de Marroquinería Rustica;Activa
+24;Caja de Custom Leatherwork;24;2;Caja de Custom Leatherwork;Inactiva
+25;Caja de Leather Handbags and Wallets;25;3;Caja de Leather Handbags and Wallets;Activa
+26;Caja de Leather Belts;26;1;Caja de Leather Belts;Inactiva
+27;Caja de Leather Dress Shoes and Loafers;27;2;Caja de Leather Dress Shoes and Loafers;Activa
+28;Caja de Flat Leather Sandals;28;3;Caja de Flat Leather Sandals;Inactiva
+29;Caja de Sneakers;29;1;Caja de Sneakers;Activa
+30;Caja de Leather Briefcases and Laptop Bags;30;2;Caja de Leather Briefcases and Laptop Bags;Inactiva
